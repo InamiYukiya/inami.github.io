@@ -5,7 +5,7 @@
         "src": "ics_logo_512x512.png",
         "sizes": "512x512"
       }],
-  "start_url": "/",
+  "start_url": "https://inamiyukiya.github.io/inami.github.io/160414_serviceworker_push_notification-master/",
   "display": "standalone",
-  "gcm_sender_id": "dynamic-chiller-152502"
+  "gcm_sender_id": "756602250371"
 }
