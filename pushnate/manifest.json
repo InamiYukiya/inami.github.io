@@ -1,7 +1,7 @@
 {
   "name": "SiteNameExample",
   "short_name": "SiteNameExample",
-  "start_url": "/",
+  "start_url": "/inami.github.io/pushnate/",
   "display": "standalone",
   "gcm_sender_id": "756602250371",
   "gcm_user_visible_only": true
